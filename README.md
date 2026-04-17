@@ -5,7 +5,7 @@ This repository contains various data visualization techniques implemented using
 - Matplotlib
 - Seaborn
 - Matrix
-- Regres
+- Regression
 - Plotly
 - Cufflinks
 
